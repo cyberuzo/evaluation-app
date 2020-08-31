@@ -1,0 +1,13 @@
+{
+	"id": "newAngularTemplate",
+	"name": "newAngularTemplate",
+	"description": "Ignite UI for Angular template created with Ignite UI CLI",
+	"framework": "angular",
+	"projectType": "igx-ts",
+	"components": [],
+	"controlGroup": "",
+	"listInCustomTemplates": true,
+	"listInComponentTemplates": false,
+	"dependencies": [],
+	"packages": []
+}
